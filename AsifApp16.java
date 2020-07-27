@@ -2,7 +2,7 @@ public class AsifApp16{
 
     public static void main(String[] args){
 
-        System.out.println("I am learning jave from basic")
+        System.out.println("I am learning jave from basic");
         
         int x = 2;
         int y = 5;
